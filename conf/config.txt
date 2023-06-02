@@ -1,0 +1,5 @@
+[default]
+URL2 = https://tw.yahoo.com
+URL = https://leapfroggingbus.tw/bus_lines/2754ae65-7664-4d35-b535-744ef8a06e1d
+User = luck@hotmail.com
+Password = XXXX
